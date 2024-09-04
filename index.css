@@ -1,0 +1,208 @@
+.Portfolio{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: #FA6E00;
+    margin-top: 10px;
+}
+.navh2{
+    color: rgb(138, 136, 136);
+    font-size: 17px;
+    margin-top: 10px;
+}
+li{
+    margin-left: 40px;
+}
+.hireme{
+    color: white;
+    background-color:#FA6E00 ;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px ;
+    padding-right: 20px ;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+.mediaicon{
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 310px;
+}
+
+.hireme2{
+    color: white;
+    background-color:#FA6E00 ;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px ;
+    padding-right: 20px ;
+    font-size: 16px;
+    font-weight: bold;
+    
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.DownlaodCV{
+    color: white;
+    background-color:#2d2e2e  ;
+    padding: 10px;
+    border: 1px ,solid white;
+    border-radius: 20px;
+    padding-left: 20px ;
+    padding-right: 20px ;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 80px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 250px;
+}
+
+.DP{
+    width: 400px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 450px;
+    border-radius: 200px;
+}
+.ExpPrj{
+    margin-top: 480px;
+    margin-left: 100px;
+    position: absolute;
+}
+.navbar navbar-inverse{
+    height: 100px;
+    
+}
+.homediv{
+    background-color:#2d2e2e ;
+    background-size: cover;
+    height: 3000px;
+    width: 1290px;
+    position: absolute;
+   
+   
+   
+}
+
+
+h1{
+    position: relative;
+}
+
+
+
+
+.secondBGdiv{
+    width: 1290px;
+    height: 1560px;
+    border-radius: 100px;
+    
+    background-color: #2d2e2e;
+    margin-top: 400;
+    position: absolute;
+    z-index: -1;
+    
+    
+   
+    
+
+}
+
+
+.div1h1{
+    position: absolute;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #FA6E00;
+    margin-left: 100px;
+    margin-top: 240px;
+}
+.div1h3{
+    position: absolute;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    color: rgb(121, 119, 119);
+    margin-left: 100px;
+    margin-top: 150px;
+
+}
+.webdesignh1{
+    font-weight: bold;
+    margin-left: 45px;
+    margin-top: 30px;
+    color: rgb(41, 41, 41);
+}
+.webdesignp{
+    font-weight: lighter;
+    margin-left: 45px;
+    margin-top: 20px;
+    color: rgb(41, 41, 41, 0.7);
+    font-size: 25px;
+    
+}
+
+
+
+
+
+
+
+.Browseh1{
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: 350px;
+    margin-top: 150px;
+}
+
+
+/* CONTACT ME */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 5px;
+    background-color: #2d2e2e ;
+    padding: 10px;
+    margin-top: 100px;
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
